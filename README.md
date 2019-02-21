@@ -1,0 +1,2 @@
+# neutrosofia_tesis
+promedio
